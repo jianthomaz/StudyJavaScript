@@ -1,0 +1,4 @@
+http://javascriptprogressivo.net/como-criar-um-script-em-javascript-tag-tutorial-ola-mundo/
+
+
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/A_re-introduction_to_JavaScript
